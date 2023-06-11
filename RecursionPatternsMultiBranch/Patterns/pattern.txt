@@ -1,1 +1,20 @@
-
+Pattern-1 Star Square Pattern
+Pattern-2 Hollow Square Pattern
+Pattern-3 Left Pyramid Pattern
+Pattern-4 Inverted Half Pyramid Pattern
+Pattern-5 Mirror Left Pyramid Pattern
+Pattern-6 Mirror Inverted Half Pyramid Pattern
+Pattern-7 Pyramid Pattern
+Pattern-8 Odd Star Pyramid Pattern
+Pattern-9 Full Pyramid Pattern
+Pattern-10 - Diagonal Line Pattern
+Pattern-11 Cross Diagonal Line Pattern
+Pattern-12 Right Pascal Pattern
+Pattern-13 Left Pascal Pattern
+Pattern-14 Number char Patterns
+Pattern-15 Inverted Pyramid Star Pattern
+Pattern-16 Hollow Inverted Pyramid Star Pattern
+Pattern-17 Hollow Diamond Star Pattern
+Pattern-18 Left Arrow and Right Arrow Star Pattern
+Pattern-19 Heart Star Pattern with Name
+Pattern-20 Number Right and Left Triangle Pattern
