@@ -8,6 +8,8 @@ public class Two {
      private static final Map<Character, String> x = new HashMap<>();
 
      static {
+          x.put('0', "");
+          x.put('1', "");
           x.put('2', "abc");
           x.put('3', "def");
           x.put('4', "ghi");
