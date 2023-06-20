@@ -15,8 +15,9 @@ public class Two {
           for (i = 0; i < ind; i++) {
                arr[i] = sc.next();
           }
-          System.out.println(Arrays.toString(upperArray(arr)));
           sc.close();
+          System.out.println(Arrays.toString(upperArray(arr)));
+
      }
 
      public static String[] upperArray(String[] arr) {
