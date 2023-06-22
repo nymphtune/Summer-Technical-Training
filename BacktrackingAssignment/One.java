@@ -1,5 +1,5 @@
 //Permutations - LeetCode : 46
-package BactrackingAssignment;
+package BacktrackingAssignment;
 
 import java.util.*;
 

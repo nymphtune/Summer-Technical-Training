@@ -1,6 +1,6 @@
 // Letter Combinations of a phone number - LeetCode : 17
 
-package BactrackingAssignment;
+package BacktrackingAssignment;
 
 import java.util.*;
 
